@@ -16,4 +16,68 @@
 
 		<title>Bootstrap Practice</title>
 	</head>
+	<body>
+		<div class="bg-warning container-fluid">
+			<div class="row">
+				<div class="col-md-6">
+					<img src="http://fillmurray.com/g/100/50" class="img-fluid" alt="Responsive image"/>
+					<nav class="navbar navbar-right">
+						<ul class="nav navbar-nav">
+							<li role="presentation"><a href="#">Home</li>
+							<li role="presentation"><a href="#">Vacation Home</li>
+							<li role="presentation"><a href="#">Other Vacation Home</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div class="bg-warning container">
+			<div class="row">
+				<div class="col-md-2">
+					<img src="http://fillmurray.com/200/200" class="img-fluid" alt="Responsive Image"/>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="img-circle">
+						<img src="http://fillmurray.com/g/100/100" class="img-circle" alt="Responsive image"/>
+					</div>
+					<div class="col-md-3">
+						<h1>Murray</h1>
+						<p1>All My Text</p1>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="img-circle">
+						<img src="http://fillmurray.com/g/100/100" class="img-circle" alt="Responsive image"/>
+					</div>
+					<div class="col-md-3">
+						<h1>Murray</h1>
+						<p1>All My Text</p1>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="img-circle">
+						<img src="http://fillmurray.com/g/100/100" class="img-circle" alt="Responsive image"/>
+					</div>
+					<div class="col-md-3">
+						<h1>Murray</h1>
+						<p1>All My Text</p1>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="img-circle">
+						<img src="http://fillmurray.com/g/100/100" class="img-circle" alt="Responsive image"/>
+					</div>
+					<div class="col-md-3">
+						<h1>Murray</h1>
+						<p1>All My Text</p1>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</body>
 </html>
